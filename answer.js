@@ -51,7 +51,7 @@ function getDayType(day){
 //userName aita function ar parameter a send kortam data recived korar jonne
 function validateUsername(userName){
   //text ar length ta check korlam
-  if(userName.length<4){
+  if(userName.length < 4){
     return "Too Short";
   }
   //input data ar vitore kono space ace kina seta check korlam
