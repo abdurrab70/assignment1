@@ -10,7 +10,7 @@ function describeValue(value) {
 // Question 2: Bangladesh Weekend Machine
 // Ans No. 2:
 
-//getDayType function name nilam, then day ta ke pass korlam, day te je data recived korbe oi gula lower case kore nilam
+//getDayType name dea akta function nilam, then day ta ke pass korlam, day te je data recived korbe oi gula lower case kore nilam
 // jate exact match korte pari amar switch ar value gular sathe
 function getDayType(day){
   let formatDay = day.toLowerCase();
