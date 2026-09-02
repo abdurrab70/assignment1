@@ -48,7 +48,7 @@ function getDayType(day){
 
 //Question 3: Username Gatekeeper
 //Ans No. 3:
-//userName aita function ar parameter a send kortam data recived korar jonne
+//userName aita function ar parameter a set korlam data recived korar jonne
 function validateUsername(userName){
   //text ar length ta check korlam
   if(userName.length < 4){
